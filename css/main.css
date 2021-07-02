@@ -1,0 +1,21 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+.blog-one img{
+    float: left;
+}
+.blog-one h2{
+    color: rgb(233, 253, 121);
+    font-size: 35px;
+    padding-left: 20%;
+}
+small{
+    color: burlywood;
+}
+.blog p{
+    color: cornsilk;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px 60px;
+};
